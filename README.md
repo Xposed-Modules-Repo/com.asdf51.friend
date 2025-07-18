@@ -2,6 +2,8 @@
 
 ### Telegram: [https://t.me/xfriend51](https://t.me/xfriend51)
 
+微信下载链接：https://github.com/Xposed-Modules-Repo/com.asdf51.friend/blob/main/Official%20WeChat%20Download%20Link
+
 ## 应用简介
 
 51Friend，隐藏wx通讯录好友和群聊. 
