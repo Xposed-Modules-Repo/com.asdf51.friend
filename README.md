@@ -2,11 +2,11 @@
 
 ### Telegram: [https://t.me/xfriend51](https://t.me/xfriend51)
 
-### [官网微信下载链接](https://github.com/Xposed-Modules-Repo/com.asdf51.friend/blob/main/Official%20WeChat%20Download%20Link)
+### [官网V下载链接](https://github.com/Xposed-Modules-Repo/com.asdf51.friend/blob/main/Official%20WeChat%20Download%20Link)
 
 ## 应用简介
 
-51Friend，隐藏wx通讯录好友和群聊. 
+51Friend，隐藏VX通讯录好友和群聊. 
 
 ## 使用教程 
     在搜索框中输入 #set# 即可激活设置选项
@@ -14,7 +14,7 @@
     之后的显示和隐藏，参考快捷操作
 
 ### 快捷操作
-    主界面左上角文字 微信(xx) 字样 
+    主界面左上角文字 VX(xx) 字样 
     长按，隐藏好友
     连点三下，显示好友
 
